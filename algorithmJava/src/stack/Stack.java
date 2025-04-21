@@ -53,7 +53,7 @@ public class Stack {
 
 /*
 스택 LIFO (Last In First Out)
-push = 데이터 값 push
-pop  = 데이터 값 pop
+push = 데이터 값 넣어주기
+pop  = 데이터 값 뽑아주기
 스택의 TOP이 n이라 할 때 pop을 해주면 n-=1
 */
