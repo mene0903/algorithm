@@ -39,20 +39,7 @@ public class Num_1874 {
 			System.out.println("+");
 			
 		}
-		/*for (int i=0; i<big; i++) {
-			int z = 0;
-			if ( i!=0 && array[z] == arr.get(top-1)) {
-				System.out.println("-");
-				pop();
-				z += 1;
-				continue;
-			}
-			push(cnt);
-			System.out.println("+");
-			
-		}
 		
-		*/
 	}
 
 }
