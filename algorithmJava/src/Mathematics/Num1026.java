@@ -25,5 +25,4 @@ public class Num1026 {
 		}
 		System.out.println(sum);
 	}
-
 }
