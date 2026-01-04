@@ -6,6 +6,15 @@ import java.io.*;
 
 
 public class Test {
-	private static Map<Integer, String> mp = new HashMap<>();
-
+	
+	public static void main(String[] args) {
+	int node = 5;
+	ArrayList<Integer>[] list = new ArrayList[node+1];
+	
+	for(int i=1; i<=node; i++) {
+		list[i] = new ArrayList<>();
+	}
+	
+	
+}
 }
