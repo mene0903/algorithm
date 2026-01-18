@@ -1,5 +1,11 @@
 package doIt.dataStructure;
 
+/*
+백준 11003
+최소값 구하기
+슬라이딩 윈도우 deque 사용 
+ */
+
 import java.util.*;
 import java.io.*;
 
