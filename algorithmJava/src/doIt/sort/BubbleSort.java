@@ -37,7 +37,7 @@ public class BubbleSort {
 			if(changeIndex > max) max = changeIndex;
 		}
 		
-		System.out.println(max+1);
+		System.out.println(max+1); 
 	}
 	
 }
